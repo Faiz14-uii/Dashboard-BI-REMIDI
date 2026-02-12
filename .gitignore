@@ -1,0 +1,25 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+*_backup.py
+Sales Transaction v.4a.csv
+.DS_Store
+Thumbs.db
+~$*
+~WRL*
+*.tmp
+*.docx
+*.md
+*.pdf
+idk.ipynb
+REMIDI 1.ipynb
+REMIDI 1 copy.ipynb
+dash_output.html
+assets/
+Procfile
+dashboard_soal7.py
